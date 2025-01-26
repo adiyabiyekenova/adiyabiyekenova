@@ -44,5 +44,4 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 ---
 
 ## Let's Connect! 🌐
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/)  
+- [LinkedIn](www.linkedin.com/in/adiya-biyekenova)    
