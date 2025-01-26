@@ -44,4 +44,12 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 ---
 
 ## Let's Connect! 🌐
-- [LinkedIn](www.linkedin.com/in/adiya-biyekenova)    
+- [LinkedIn](www.linkedin.com/in/adiya-biyekenova)
+
+---
+
+## My Data Science Portfolio 📊
+
+Check out my **Data Science Portfolio** where I showcase Python projects related to data analysis, machine learning, and more:
+
+- [Adiya's Python Portfolio](https://github.com/adiyabiyekenova/BIYEKENOVA-Python-Portfolio)
