@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Adiya! 👋
 
-<!--
-**adiyabiyekenova/adiyabiyekenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a sophomore from **Kazakhstan**, currently studying at the **University of Notre Dame**.  
+I'm majoring in **Business Analytics** with minors in **Finance** and **Computing & Digital Technologies**.  
 
-Here are some ideas to get you started:
+I'm passionate about **data analytics**, and in my free time, I enjoy going to the **gym**, practicing **boxing**, and reading **Russian literature**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education 🎓
+- **Bachelor of Business Administration** (In Progress)  
+  *University of Notre Dame*  
+ 
+- **High School Diploma**  
+  *Nazarbayev Intellectual School of Physics and Mathematics*  
+
+---
+
+## Technical Skills 💻
+- **Tools & Platforms:** S&P Capital IQ, Bloomberg, FactSet, PowerBI, Tableau  
+- **Programming Languages:** Python, R, C++, C#, SQL, HTML, CSS  
+- **Other:** Data Visualization, Web Development  
+
+---
+
+## Languages 🌍
+- **Russian:** Native  
+- **Kazakh:** Native  
+- **English:** Fluent  
+- **French:** Elementary  
+
+---
+
+## Interests 🌟
+- 🥊 Boxing  
+- 🏇 Equestrianism  
+- 🌐 Web-Design  
+- 📖 Reading Russian Literature  
+- ✈️ Solo Traveling  
+- 🎹 Playing Piano  
+- 🍳 Cooking  
+- 🧩 Building LEGO Sets  
+
+---
+
+## Let's Connect! 🌐
+- [LinkedIn](https://www.linkedin.com/)  
+- [GitHub](https://github.com/)  
