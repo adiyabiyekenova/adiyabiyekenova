@@ -74,7 +74,7 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 
 ## My Data Science Portfolio 📊
 
-Check out my **Data Science Portfolio** where I showcase Python projects related to data analysis, machine learning, and more:
+Check out my **Data Science Portfolio** where I showcase Python projects for the Elements of Computing Class during Spring 2025 semester:
 
 - [Adiya's Python Portfolio](https://github.com/adiyabiyekenova/BIYEKENOVA-Python-Portfolio)
 
