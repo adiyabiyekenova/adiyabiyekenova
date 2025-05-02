@@ -5,6 +5,11 @@ I'm majoring in **Business Analytics** with minors in **Finance** and **Computin
 
 I'm passionate about **data analytics**, and in my free time, I enjoy going to the **gym**, practicing **boxing**, and reading **Russian literature**. 
 
+📍 **Location:** Notre Dame, IN  
+📧 **Email:** [abiyeken@nd.edu](mailto:abiyeken@nd.edu)  
+🔗 **LinkedIn:** [adiya-biyekenova](https://www.linkedin.com/in/adiya-biyekenova)  
+👨‍💻 **GitHub:** [adiyabiyekenova](https://github.com/adiyabiyekenova)
+
 ---
 
 ## Education 🎓
@@ -43,7 +48,25 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 
 ---
 
-## Current & Past Projects 🚀
+## Work Experience 📜
+- **Waterbrook Advisors** - Investment Banking Intern (Fall 2024)
+- **PriceWaterhouseCoopers PwC** - Data & Analytics Intern (Summer 2024)  
+
+---
+
+## Campus Clubs Involvement 🛠️
+
+- 🌍 **Student International Business Club** 
+- 📊 **Data Club of Notre Dame** 
+- 👩‍💼 **Undergraduate Women in Business** 
+- 🤝 **Club Coordination Council** 
+- 🌈 **Multicultural Student Resources** 
+- 🕊️ **Kroc Institute for International Peace Studies** 
+- 💻 **The Department of Computing**
+
+---
+
+## Current Projects 🚀
 
 - **Data Science Project on Taylor Swift's Discography** 🎶  
   Performing topic modeling and sentiment analysis on Taylor Swift's lyrics dataset to uncover themes and emotional trends across her albums with **Data Club of Notre Dame**.  
@@ -72,9 +95,9 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 
 ---
 
-## My Data Science Portfolio 📊
+## My Python Portfolio 📊
 
-Check out my **Data Science Portfolio** where I showcase Python projects for the Elements of Computing Class during Spring 2025 semester:
+Check out my **Python Portfolio** where I showcase Python projects for the Elements of Computing Class during Spring 2025 semester:
 
 - [Adiya's Python Portfolio](https://github.com/adiyabiyekenova/BIYEKENOVA-Python-Portfolio)
 
