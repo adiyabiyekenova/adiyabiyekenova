@@ -3,7 +3,12 @@
 Welcome to my GitHub profile! I'm a sophomore from **Kazakhstan**, currently studying at the **University of Notre Dame**.  
 I'm majoring in **Business Analytics** with minors in **Finance** and **Computing & Digital Technologies**.  
 
-I'm passionate about **data analytics**, and in my free time, I enjoy going to the **gym**, practicing **boxing**, and reading **Russian literature**.  
+I'm passionate about **data analytics**, and in my free time, I enjoy going to the **gym**, practicing **boxing**, and reading **Russian literature**. 
+
+📍 US | Kazakhstan
+📧 Email: abiyeken@nd.edu
+🔗 LinkedIn: adiya-biyekenova
+👨‍💻 GitHub: adiyabiyekenova
 
 ---
 
@@ -43,7 +48,7 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 
 ---
 
-## Current Projects 🚀
+## Current & Past Projects 🚀
 
 - **Data Science Project on Taylor Swift's Discography** 🎶  
   Performing topic modeling and sentiment analysis on Taylor Swift's lyrics dataset to uncover themes and emotional trends across her albums with **Data Club of Notre Dame**.  
