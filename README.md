@@ -5,11 +5,6 @@ I'm majoring in **Business Analytics** with minors in **Finance** and **Computin
 
 I'm passionate about **data analytics**, and in my free time, I enjoy going to the **gym**, practicing **boxing**, and reading **Russian literature**. 
 
-📍 US | Kazakhstan
-📧 Email: abiyeken@nd.edu
-🔗 LinkedIn: adiya-biyekenova
-👨‍💻 GitHub: adiyabiyekenova
-
 ---
 
 ## Education 🎓
