@@ -13,11 +13,11 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 ---
 
 ## Education 🎓
-- **Bachelor of Business Administration** (In Progress)  
+- **Bachelor of Business Administration** (Class of 2027)  
   *University of Notre Dame*  
  
-- **High School Diploma**  
-  *Nazarbayev Intellectual School of Physics and Mathematics*  
+- **High School Diploma** (Class of 2023)
+  *Nazarbayev Intellectual School of Physics and Mathematics in Almaty*  
 
 ---
 
@@ -79,7 +79,7 @@ I'm passionate about **data analytics**, and in my free time, I enjoy going to t
 
 ---
 
-## Goals for the Semester 🎯  
+## Goals for this Semester 🎯  
 - Enhance My Data Science Skills
 - Build and Deploy a Web Application
 - Strengthen Financial Analysis Expertise
